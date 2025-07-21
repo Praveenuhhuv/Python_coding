@@ -1,0 +1,5 @@
+f=open('write_data','w')
+f.write('bigdata\n')
+f.write('python\n')
+f.write('sql')
+f.write('machine learning')
